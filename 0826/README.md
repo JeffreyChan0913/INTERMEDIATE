@@ -1,6 +1,6 @@
 # Decode System
 
-## time limit per test case: 1 second 
+##### time limit per test case: 1 second 
 
 We encode a stringi, S, with the following rules
 1. If the letter is a signle digit $S_i < 10$, we simply just use that digit. 
@@ -15,9 +15,9 @@ As a result ```18100``` is decoded as ```ahj```.
 
 input:
 
-test case number, $ 1 \leq t \leq 10^4 $
-n digits to take in and $ 1 \leq n \leq 50 $
-n digits to be read, expect the resultant is in lowercase. 
+1. test case number, $1\leq t \leq 10^4$
+2. n digits to take in and $1 \leq n \leq 50$
+3. n digits to be read, expect the resultant is in lowercase. 
 
 ```
 3
@@ -27,6 +27,7 @@ n digits to be read, expect the resultant is in lowercase.
 123
 6
 100100
+
 ```
 
 output:
@@ -34,5 +35,6 @@ output:
 ahj
 abc
 jj
+
 ```
 
