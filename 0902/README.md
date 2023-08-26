@@ -8,6 +8,8 @@ You will be given an integer $n$ and you will need to find the largest integer $
 
 Say, $a,b,c \in \mathbb{Z}$ such that $a = b \times c$. For example, 10 is a multiple of 5. Example 2, 9 is not amultiple of 6.
 
+test case [LINK](https://github.com/JeffreyChan0913/INTERMEDIATE/blob/main/0902/testcase.txt):
+
 Input:
 
 The first line contains a single integer t, $1 \leq t \leq 10^4$
