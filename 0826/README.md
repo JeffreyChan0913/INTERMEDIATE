@@ -2,7 +2,7 @@
 
 ##### time limit per test case: 1 second 
 
-We encode a stringi, S, with the following rules
+We encode a string, $S$, with the following rules
 1. If the letter is a signle digit $S_i < 10$, we simply just use that digit. 
 2. if the letter is two digits that is $S_i \geq 10$, then we use that two digits and add a 0 right after it. 
 
