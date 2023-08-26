@@ -2,7 +2,7 @@
 
 ##### time limit per test case: 1 second 
 
-### Problem 1
+### Problem 1 - Happy Factorial
 
 You will be given an integer $n$ and you will need to find the largest integer $x$ such that it fulfills the following condition: $1 \leq x \leq n$ and $x! + (x-1)!$ is a multiple of $n$.
 
