@@ -16,5 +16,20 @@ The next $t$ lines, will contain an integer $n$ such that $2 \leq n \leq 10^9$
 Output:
 Output x if that satisfies the conditions from above, otherwise, output $-1$.
 
+```
+4
+3
+6
+8
+10
+```
+
+```
+2
+5
+7
+9
+```
+
 <font size = 1>Last Updated: 08-11-2023, 12:53:00 pm T2-173</font>
 
