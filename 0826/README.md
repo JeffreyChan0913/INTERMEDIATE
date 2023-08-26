@@ -6,7 +6,7 @@ We encode a string, $S$, with the following rules
 1. If the letter is a signle digit $s_i < 10$, we simply just use that digit. 
 2. if the letter is two digits that is $s_i+s_{i+1} \geq 10$, then we use that two digits and add a 0 right after it. 
 
-If the given string is 18100, then can think of it as the following: 
+If the given string is 18100, then we can think of it as the following: 
 1. ```a``` is located the first value, so 1.
 2. ```h``` is located at the 8th position, so 8
 3. ```j``` is located at the 10th position, so 10 + 0
