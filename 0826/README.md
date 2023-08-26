@@ -2,7 +2,7 @@
 
 ##### time limit per test case: 1 second 
 
-We encode a string, $S$ where $s_i \in S and 1\leq s_i \leq 26$, with the following rules
+We encode a string, $S$ where $s_i \in S \; and \; 1\leq s_i \leq 26$, with the following rules
 1. If the letter is a single digit $s_i < 10$, we simply just use that digit. 
 2. if the letter is two digits that is $s_i+s_{i+1} \geq 10$, then we use that two digits and add a 0 right after it. 
 
