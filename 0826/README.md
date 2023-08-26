@@ -13,6 +13,8 @@ If the given string is 18100, then can think of it as the following:
 
 As a result ```18100``` is decoded as ```ahj```.
 
+test case - [LINK](https://github.com/JeffreyChan0913/INTERMEDIATE/blob/main/0826/testcase.txt)
+
 input:
 
 1. test case number, $1\leq t \leq 10^4$
