@@ -27,7 +27,6 @@ input:
 123
 6
 100100
-
 ```
 
 output:
@@ -35,6 +34,5 @@ output:
 ahj
 abc
 jj
-
 ```
 
