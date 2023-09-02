@@ -4,7 +4,7 @@
 
 ### Problem 1 - Happy Factorial
 
-You will be given an integer $n$ and you will need to find the largest integer $x$ such that it fulfills the following condition: $1 \leq x \leq n$ and $x! + (x-1)!$ is a multiple of $n$.
+You will be given an integer $n$ and you will need to find the largest integer $x$ such that it fulfills the following condition: $1 \leq x < n$ and $x! + (x-1)!$ is a multiple of $n$.
 
 Say, $a,b,c \in \mathbb{Z}$ such that $a = b \times c$. For example, 10 is a multiple of 5. Example 2, 9 is not amultiple of 6.
 
