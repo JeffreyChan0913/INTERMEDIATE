@@ -1,7 +1,5 @@
-4
+2
 3
 6
-8
-10
 
 ----- problem 1 test case is above this line -----
