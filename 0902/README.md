@@ -27,7 +27,6 @@ Output x if that satisfies the conditions from above, otherwise, output $-1$.
 ```
 2
 5
-7
 ```
 
 <font size = 1>Last Updated: 08-11-2023, 12:53:00 pm T2-173</font>
