@@ -1,13 +1,5 @@
 <h2 align="center">0909</h2>
 
-##### time limit per test case: 1 second 
-
-### Problem 1 - Happy Factorial
-
-<h2 align="center">0908</h2>
-
-## Problem Day 
-
 ### Problem 1
 ##### time limit per test case: 1 second 
 
