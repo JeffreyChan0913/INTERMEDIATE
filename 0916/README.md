@@ -5,7 +5,8 @@
 
 Given n points on a 2D coordinate setting, find the maximum Euclidean distance between any two points.
 
-We have $N$ number where $N \in \mathbb{Z}^+, 1 \leq N \leq 5000$ and we will have $N$ x values and y values wher $ -1000 \leq x_i, y_i \leq 1000$.
+We have $N$ number where $N \in \mathbb{Z}^+, 1 \leq N \leq 5000$ and we will have $N$ x values and y values where
+$-1000 \leq x_i, y_i \leq 1000$.
 
 test case:
 ```
